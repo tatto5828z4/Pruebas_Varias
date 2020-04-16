@@ -1,0 +1,17 @@
+para sacar de dolar a euro hay que sacar el reciproco 
+
+=1/numero   ---> dolar con respecto al euro 
+
+
+decesnso al infinito 
+comparar lo observado con lo pronosticado eso es el reuido el erro
+
+evaluar si el error sigue la sitribucion normal la prueba de jarquebera
+si la pasa entonces puede comenzarse a realizar pronosticos con el 
+error 
+
+
+para la prueba de normalidad hay que ver el # de cifras significativas
+99.99% por ejemplo 
+
+tarea hoja 4 para el lunes 
